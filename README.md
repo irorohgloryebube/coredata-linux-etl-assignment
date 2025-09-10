@@ -1,4 +1,4 @@
-Posey Project – SQL & Bash ETL Scripts
+SQL & Bash ETL Scripts
  Project Overview
 
 This project demonstrates the use of SQL scripts and Bash scripts to solve real-world data problems in PostgreSQL and to implement an ETL (Extract, Transform, Load) pipeline.
